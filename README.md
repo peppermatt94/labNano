@@ -26,7 +26,7 @@ To use the previous commands one need:
 * sympy
 * matplolib
 
-Notice that all the scripts depend on the module `LabLibrary.py` we created. 
-Do not remove them.
+Notice that all the scripts depends on the module `LabLibrary.py` we created. 
+Do not remove it.
 # Signature
 **Group 2** LabNano 
