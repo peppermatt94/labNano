@@ -4,7 +4,7 @@
 In this github project all the data and python analysis did during the experiments of 'Laboratory of Nanoscience and Nanothecnology'
 are reported. 
 
-# Advice for use
+# Advice for usage
 
 To use the present analysis one can do:
 ```
