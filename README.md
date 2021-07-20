@@ -1,5 +1,5 @@
 # labNano
-##Python Scripts for 'Laboratory of Nanoscience and Nanotetechnology' data analysis
+## Python Scripts for 'Laboratory of Nanoscience and Nanotetechnology' data analysis
 
 In this github project all the data and python analysis did during the experiments of 'Laboratory of Nanoscience and Nanothecnology'
 are reported. 
@@ -25,4 +25,4 @@ To use the previous commands one need:
 Notice that all the scripts depend on the module `LabLibrary.py` we created. 
 Do not remove them.
 # Signature
-* Group 2 * LabNano 
+** Group 2 ** LabNano 
