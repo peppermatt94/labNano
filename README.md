@@ -21,6 +21,10 @@ To use the previous commands one need:
 * git 
 * python>3.7
 * advice: conda enviroment
+* pandas
+* scipy
+* sympy
+* matplolib
 
 Notice that all the scripts depend on the module `LabLibrary.py` we created. 
 Do not remove them.
